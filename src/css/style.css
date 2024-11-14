@@ -202,6 +202,15 @@ button {
   grid-column: 3;
 }
 
+
+.remove-item {
+  cursor: pointer;
+  color: red;
+  font-size: 1.2em;
+  margin-left: 10px;
+}
+
+
 @media screen and (min-width: 500px) {
   body {
     max-width: 1080px;
